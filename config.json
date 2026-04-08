@@ -1,0 +1,61 @@
+{
+    "fifo_path": "rdsfifo",
+    "fields": {
+        "PS": {
+            "mode": "static",
+            "value": "OTVORENI"
+        },
+        "RT": {
+            "mode": "file",
+            "value": "/home/bartek/nanords-webui/now_playing.txt"
+        },
+        "PTY": {
+            "mode": "static",
+            "value": "10"
+        },
+        "PTYN": {
+            "mode": "static",
+            "value": ""
+        },
+        "LIC": {
+            "mode": "static",
+            "value": ""
+        },
+        "ECC": {
+            "mode": "static",
+            "value": "E3"
+        },
+        "PI": {
+            "mode": "static",
+            "value": "C205"
+        },
+        "MS": {
+            "mode": "static",
+            "value": "1"
+        },
+        "TP": {
+            "mode": "static",
+            "value": "1"
+        },
+        "TA": {
+            "mode": "static",
+            "value": "0"
+        },
+        "RDS": {
+            "mode": "static",
+            "value": "4"
+        },
+        "STEREO": {
+            "mode": "static",
+            "value": "0"
+        },
+        "AF": {
+            "mode": "static",
+            "value": ""
+        },
+        "DI": {
+            "mode": "static",
+            "value": "5"
+        }
+    }
+}
